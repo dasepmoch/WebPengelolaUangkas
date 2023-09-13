@@ -9,6 +9,7 @@ Buat database dengan nama: uang_kas
 Import file uang_kas.sql pada folder yang di ekstrak tadi
 Buka localhost/uang_kas
 Selesai
+
 Akun:
 
 Administrator:
