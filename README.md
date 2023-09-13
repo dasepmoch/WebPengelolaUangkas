@@ -9,7 +9,7 @@ Cara memasangnya:
 4. Buat database dengan nama: uang_kas
 5. Import file uang_kas.sql pada folder yang di ekstrak tadi
 6. Buka localhost/uang_kas
-7. Selesai
+7. Selesai 
 
 Akun:
 
